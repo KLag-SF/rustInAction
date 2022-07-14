@@ -12,10 +12,10 @@ fn main() {
             continue;
         }
 
-        let fields: Vec<_> = record
-            .split(',')
-            .map(|field| field.trim())
-            .collect();
+        let fields: Vec<_> = record     // Vec<_> → ジェネリクス型を "_" にすることでRustの型推論を利用可能
+            .split(',')          // カンマで分割
+            .map(|field| field.trim())// 要素の前後の空白を削除
+            .collect();                     // Vectorに収集
         
         if cfg!(debug_assertions){
             eprintln!("debug: {:?} -> {:?}", record, fields);
