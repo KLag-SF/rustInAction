@@ -7,8 +7,8 @@ fn mandelbrot(max_iters: usize, x_min: f64, x_max: f64,
     for img_y in 0..height{
         let mut row: Vec<usize> = Vec::with_capacity(height);
         for img_x in 0..width {
-            let x_percent = (img_x as f64 / width as f64);
-            let y_percent = (img_y as f64 / height as f64);
+            let x_percent = img_x as f64 / width as f64;
+            let y_percent = img_y as f64 / height as f64;
 
             let cx = x_min + (x_max - x_min) * x_percent;
             let cy = y_min + (y_max - y_min) * y_percent;
