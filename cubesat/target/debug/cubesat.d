@@ -1,1 +1,1 @@
-D:\user\Dev\rustInAction\cubesat\target\debug\cubesat.exe: D:\user\Dev\rustInAction\cubesat\src\main.rs
+/Users/klag/develop/RustInAction/cubesat/target/debug/cubesat: /Users/klag/develop/RustInAction/cubesat/src/main.rs
