@@ -1,0 +1,13 @@
+/Users/klag/develop/RustInAction/ch7-1/target/debug/deps/quote-aaca5f8023716a67.rmeta: /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/Users/klag/develop/RustInAction/ch7-1/target/debug/deps/libquote-aaca5f8023716a67.rlib: /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/Users/klag/develop/RustInAction/ch7-1/target/debug/deps/quote-aaca5f8023716a67.d: /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs /Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs
+
+/Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/lib.rs:
+/Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ext.rs:
+/Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/format.rs:
+/Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/ident_fragment.rs:
+/Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/to_tokens.rs:
+/Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/runtime.rs:
+/Users/klag/.cargo/registry/src/github.com-1ecc6299db9ec823/quote-1.0.21/src/spanned.rs:
